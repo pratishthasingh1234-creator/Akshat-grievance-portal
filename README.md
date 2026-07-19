@@ -1,4 +1,4 @@
-# 💌 Boyfriend Grievance Portal
+# 💌 Akshat's Grievance Portal
 
 A fun grievance portal built using Flask, Python, and SQLite for managing grievances between users. The portal allows users to submit grievances, while administrators can respond to them, track their resolution, and send email notifications.
 
